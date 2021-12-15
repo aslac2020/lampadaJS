@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#lampada {
+  width: 100%;
+  height: 300px;
+}
+
+main {
+  background-color: black;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  width: 150px;
+  height: 40px;
+  font-size: 20px;
+  border-radius: 10px;
+  color: red;
+  background-color: black;
+  user-select: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ffffff0f;
+  transition: 0.2s;
+}
+
+.title {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: tomato;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
