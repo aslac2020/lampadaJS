@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Projeto Acender a Lâmpada e Quebrar - Curso ministrado pelo FIAP
+Projeto Acender a Lâmpada e Quebrar - Curso ministrado pela FIAP
 
 Consiste em um site web que pode acender a luz e desligar, e ao clicar 2x na lâmpada ela quebra
 
